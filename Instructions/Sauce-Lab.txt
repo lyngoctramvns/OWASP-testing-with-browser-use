@@ -1,0 +1,8 @@
+1. Go to https://www.saucedemo.com/
+2. Login with standard user on the Accepted usernames are: list. Using Password for all users: list for password
+3. Once logged in successfully, try sort the items A-Z, price low - high
+4. Select one item
+5. Add item to cart
+6. Click "Checkout" button
+7. Enter first name, last name and zipcode
+8. Complete checkout and check that it redirect to Thank you order page

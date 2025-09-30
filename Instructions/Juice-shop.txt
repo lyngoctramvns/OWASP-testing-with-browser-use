@@ -1,0 +1,5 @@
+1. Go to http://localhost:3000
+2. Go to search result. Enter <h1>test</h1>. Must hit Enter after to search. Confirm that it was insert in the code of the website.
+3. Enter <iframe src="javascript:alert('This is the XSS Scripting - HACKED!')"> in the search result.
+4. Go to Login page of the site
+5. Perform SQL injections and confirm if it's working
