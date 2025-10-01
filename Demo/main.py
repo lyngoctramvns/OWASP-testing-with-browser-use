@@ -10,7 +10,7 @@ load_dotenv()
 
 from browser_use import Agent, ChatGoogle
 
-file_name = 'Juice-shop.txt'
+file_name = os.getenv('FILE_PATH')
 
 # Check this one for security issues: https://github.com/juice-shop/juice-shop?tab=readme-ov-file
 with open(f'../Instructions/{file_name}', 'r') as file:

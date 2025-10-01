@@ -16,6 +16,7 @@ OWASP Juice Shop: https://github.com/juice-shop/juice-shop
 
 ```bash
     GEMINI_API_KEY="YOUR GOOGLE API KEY"
+    FILE_PATH="FILE PATH OF YOUR INSTRUCTIONS"
 ```
 
 ### Run Test
